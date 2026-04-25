@@ -1,6 +1,6 @@
 # V Holdings
 
-The legal entity for v.AI and other projects by virgilholmes.
+The legal entity for projects by virgilholmes.
 
 contact?
 
