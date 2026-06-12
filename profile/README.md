@@ -1,7 +1,7 @@
 # V Holdings
 
-The legal entity for projects by virgilholmes.
+The legal entity for projects by Virgil.
 
 contact?
 
-sayhi@virgilholmes.com
+holdings@virgilholmes.com
